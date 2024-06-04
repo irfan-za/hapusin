@@ -12,4 +12,12 @@
   input[type="file"] {
     @apply appearance-none;
   }
+  
+}
+.tooltip {
+  @apply invisible absolute;
+}
+
+.has-tooltip:hover .tooltip {
+  @apply visible z-50;
 }
