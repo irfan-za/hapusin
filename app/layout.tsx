@@ -23,7 +23,7 @@ export default function RootLayout({
             <p>
               Built by{" "}
               <Link
-                href="https://portfolio.irfan-za.vercel.app/"
+                href="https://portfolio-irfan-za.vercel.app/"
                 className="font-semibold duration-150 hover:text-zinc-200"
               >
                 @irfan-za
